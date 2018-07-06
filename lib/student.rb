@@ -5,8 +5,8 @@ class Student
   end
 
 
-def raise_hand 
+def raise_hand
   puts "Pick me!"
-end 
+end
 
 end 
